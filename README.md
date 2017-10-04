@@ -33,5 +33,8 @@ docker run -p 8888:8888 -it johnpaulada/microsoftml /opt/microsoft/mlserver/9.2.
 ```
 Then copy the link the command will give you and open it in your browser.
 
+## Notes
+- The image is pretty big so make sure you have some space left on your computer.
+
 ## License
 MIT
