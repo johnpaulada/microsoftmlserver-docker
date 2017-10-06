@@ -57,5 +57,12 @@ Then copy the link the command will give you and open it in your browser.
 ## Credits
 Great many thanks to [@moshen](https://github.com/moshen) for doing a wonderful job cleaning up the Dockerfile and giving me tips regarding Docker. :tada:
 
-## License
+## License 
+
+### [Microsoft Machine Learning Server License](https://blogs.technet.microsoft.com/machinelearning/2017/09/25/introducing-microsoft-machine-learning-server-9-2-release/)
+> Microsoft Machine Learning Server is built into SQL Server 2017 at no additional charge.
+> Microsoft Machine Learning Server stand-alone for Linux or Windows is licensed core-for-core as SQL Server 2017.
+> All customers who have purchased Software Assurance for SQL Server Enterprise Edition are entitled to use 5 nodes of Microsoft Machine Learning Server for Hadoop/Spark for each core of SQL Server 2017 Enterprise Edition under SA. In addition, we are removing the core limit per-node; customers can have unlimited cores per node of Machine Learning Server for Hadoop/Spark.
+
+### Repo License
 MIT
