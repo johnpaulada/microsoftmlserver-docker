@@ -20,6 +20,9 @@ Here are some things you can do with it:
 - Open up a console and run your Python or R scripts there.
 - Use it as a machine learning service in a web application prototype using `docker-compose`.
 
+## Disclaimer
+This Docker image was built for development/prototyping in mind. If you need this in production, go to their [product page](https://www.microsoft.com/en-us/sql-server/machinelearningserver).
+
 ## Prerequisites
 To use this image, you need to install [Docker](https://www.docker.com/) first.
 
