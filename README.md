@@ -1,7 +1,7 @@
 # Microsoft Machine Learning Server Docker Image
 An unofficial Docker image for the Microsoft Machine Learning Server.
 
-> It lets people try something easily without having a large amount of setup. - @moshen
+> It lets people try something easily without having a large amount of setup. - [@moshen](https://github.com/moshen)
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](http://forthebadge.com)
@@ -37,7 +37,7 @@ Then copy the link the command will give you and open it in your browser.
 - The image is pretty big so make sure you have some space left on your computer.
 
 ## Credits
-Great many thanks to @moshen for doing a wonderful job cleaning up the Dockerfile and giving me tips regarding Docker. :tada:
+Great many thanks to [@moshen](https://github.com/moshen) for doing a wonderful job cleaning up the Dockerfile and giving me tips regarding Docker. :tada:
 
 ## License
 MIT
