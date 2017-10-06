@@ -6,6 +6,11 @@ An unofficial Docker image for the Microsoft Machine Learning Server.
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](http://forthebadge.com)
 
+
+## Disclaimer
+- This Docker image was built for development/prototyping in mind. If you need this in production, go to their [product page](https://www.microsoft.com/en-us/sql-server/machinelearningserver).
+- I am not affiliated with Microsoft. I built this to try out Microsoft Machine Learning Server.
+
 ## [What is Microsoft Machine Learning Server?](https://docs.microsoft.com/en-us/machine-learning-server/what-is-machine-learning-server)
 > Machine Learning Server includes a collection of packages, interpreters, and infrastructure for developing and deploying R and Python-based machine learning and data science solutions on a range of platforms, from standalone installs on Linux and Windows to large distributed deployments on node clusters. With these custom R and Python packages, Machine Learning Server brings the best of open source and proprietary innovation together.
 
@@ -19,9 +24,6 @@ Here are some things you can do with it:
 - Run some Python code in the Machine Learning Server interactive Python shell.
 - Open up a console and run your Python or R scripts there.
 - Use it as a machine learning service in a web application prototype using `docker-compose`.
-
-## Disclaimer
-This Docker image was built for development/prototyping in mind. If you need this in production, go to their [product page](https://www.microsoft.com/en-us/sql-server/machinelearningserver).
 
 ## Prerequisites
 To use this image, you need to install [Docker](https://www.docker.com/) first.
