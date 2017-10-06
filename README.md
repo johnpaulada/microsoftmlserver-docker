@@ -1,8 +1,13 @@
 # Microsoft Machine Learning Server Docker Image
 An unofficial Docker image for the Microsoft Machine Learning Server.
 
+[Microsoft Machine Learning Server Documentation](https://docs.microsoft.com/en-us/machine-learning-server/)
+
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](http://forthebadge.com)
+
+## [What is Microsoft Machine Learning Server?](https://docs.microsoft.com/en-us/machine-learning-server/what-is-machine-learning-server)
+> Machine Learning Server includes a collection of packages, interpreters, and infrastructure for developing and deploying R and Python-based machine learning and data science solutions on a range of platforms, from standalone installs on Linux and Windows to large distributed deployments on node clusters. With these custom R and Python packages, Machine Learning Server brings the best of open source and proprietary innovation together.
 
 ## Rationale
 > It lets people try something easily without having a large amount of setup. - [@moshen](https://github.com/moshen)
