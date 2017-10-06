@@ -9,3 +9,5 @@ RUN apt-key adv --keyserver pgp.mit.edu --recv-keys BC528686B50D79E339D3721CEB3E
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/* \
     && /opt/microsoft/mlserver/$MLSERVER_VERSION/bin/R/activate.sh
+MAINTAINER John Paul Ada
+CMD /opt/microsoft/mlserver/$MLSERVER_VERSION/runtime/python/bin/jupyter notebook --no-browser --port=8888 --ip=0.0.0.0 --allow-root
